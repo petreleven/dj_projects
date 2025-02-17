@@ -1,11 +1,5 @@
-# Django Learning and Project Proposal
 
-## Objective
-To build upon the foundational knowledge of Django CRUD by exploring advanced concepts and practical project development. This will provide a deeper understanding of Django's capabilities and real-world application.
-
-
-
-## Project Ideas to Work On Together
+##Django Project Ideas
 
 ### 1. **Blog with Tags & Comments**
    Build a multi-user blog with features such as tags, categories, and comments. Add markdown rendering and rich text editing for posts.
